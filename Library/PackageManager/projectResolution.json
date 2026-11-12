@@ -1,0 +1,184 @@
+{
+  "context": {
+    "projectPath": "C:/Users/pujol/Escritorio/Tarea 4 - Juego 2D/Gang pack/Angel-vs-la-Mafia-Unity/Packages",
+    "unityVersion": "6000.6.4f1"
+  },
+  "inputs": [
+    "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Packages\\manifest.json",
+    "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Packages\\packages-lock.json",
+    "C:\\Program Files\\Unity\\Hub\\Editor\\6000.6.4f1\\Editor\\Data\\Resources\\PackageManager\\BuiltInPackages\\BuiltInPackagesCombined.sha1"
+  ],
+  "outputs": {
+    "com.unity.ai.navigation@2.0.14": {
+      "name": "com.unity.ai.navigation",
+      "displayName": "AI Navigation",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.ai.navigation@134dd6a3b97b",
+      "fingerprint": "134dd6a3b97bb75be809e267fbcd9c5071579dd2",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "2.0.14",
+      "source": "registry",
+      "testable": false
+    },
+    "com.unity.multiplayer.center@2.0.1": {
+      "name": "com.unity.multiplayer.center",
+      "displayName": "Multiplayer Center",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.multiplayer.center@549886182930",
+      "fingerprint": "549886182930d71268e669c8cad270abe436405f",
+      "version": "2.0.1",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "displayName": "Accessibility",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.adaptiveperformance@1.0.0": {
+      "name": "com.unity.modules.adaptiveperformance",
+      "displayName": "Adaptive Performance",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.adaptiveperformance",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "displayName": "Audio",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "displayName": "Image Conversion",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "displayName": "IMGUI",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "displayName": "JSONSerialize",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physicscore2d@1.0.0": {
+      "name": "com.unity.modules.physicscore2d",
+      "displayName": "Physics Core 2D",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.physicscore2d",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.tetgen@1.0.0": {
+      "name": "com.unity.modules.tetgen",
+      "displayName": "Tetgen",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.tetgen",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.timelinefoundation@1.0.0": {
+      "name": "com.unity.modules.timelinefoundation",
+      "displayName": "Timeline Foundation",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.timelinefoundation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "displayName": "Unity Web Request",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "displayName": "Unity Web Request Texture",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.vectorgraphics@1.0.0": {
+      "name": "com.unity.modules.vectorgraphics",
+      "displayName": "Vector Graphics",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.vectorgraphics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "displayName": "UIElements",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "displayName": "Subsystems",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "displayName": "AI",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "displayName": "UI",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "displayName": "Hierarchy Core",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "displayName": "Physics",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "displayName": "Animation",
+      "resolvedPath": "C:\\Users\\pujol\\Escritorio\\Tarea 4 - Juego 2D\\Gang pack\\Angel-vs-la-Mafia-Unity\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin",
+      "testable": false
+    }
+  }
+}
